@@ -1,0 +1,15 @@
+# Exemple de fichier mods.toml pour votre mod
+
+modLoader="javafml"
+loaderVersion="[21,)"
+license="All Rights Reserved"
+issueTrackerURL=""
+authors="Axelouuu"
+description='Fait un son à chaque messages qui apparaît dans le chat du jeu'
+name="ChatSound"
+version="1.0.0"
+
+[[dependencies]]
+  modId="forge"
+  mandatory=true
+  versionRange="[1.19.2-42.2.21,)"
